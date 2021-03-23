@@ -1,2 +1,2 @@
 # marbleindex.github.io
-CCSF Intermediate HTML CSS Course
+CCSF Intermediate HTML & CSS Course
