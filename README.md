@@ -4,7 +4,7 @@ CCSF Intermediate HTML & CSS Course
 <h1 align="center">Hi 👋, I'm Kristian Reyes</h1>
 <h3 align="center">a thorough content developer focused on enhancing users' documentation experience</h3>
 
-- 🔭 I’m currently working on **as a technical writer for a fintech company.**
+- 🔭 I’m currently working **as a technical writer for a fintech company.**
 
 - 🌱 I’m currently learning **developer documentation and API design.**
 
