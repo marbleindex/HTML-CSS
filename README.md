@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **software documentation, content development, and Mexican food.**
 
-- 📫 How to reach me: **info@kristianreyes.com**.
+- 📫 How to reach me: **info@kristianreyes.com** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
