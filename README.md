@@ -6,7 +6,7 @@ CCSF Intermediate HTML & CSS Course
 
 - 🔭 I’m currently working **as a technical writer for a fintech company.**
 
-- 🌱 I’m currently learning **developer documentation and API design.**
+- 🌱 I’m currently learning **developer documentation best practices and API design.**
 
 - 👨‍💻 All of my projects are available at [kristianreyes.com](kristianreyes.com)
 
