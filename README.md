@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **developer documentation best practices and API design.**
 
-- 👨‍💻 All of my projects are available at [kristianreyes.com](https://www.kristianreyes.com/)
+- 👨‍💻 All of my projects are available at [kristianreyes.com.](https://www.kristianreyes.com/)
 
 - 💬 Ask me about **software documentation, content development, and Mexican food.**
 
